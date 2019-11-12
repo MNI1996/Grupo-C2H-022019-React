@@ -1,3 +1,13 @@
 {
-    "Saludos": "hello"
+    "Saludos": "hello",
+    "Register": "Sing up",
+    "Viandas": "lunch",
+    "Ingreso": "Sing in",
+    "Bienvenidos":"Welcome",
+    "Usuario": "User",
+    "Contraseña": "password",
+    "Busqueda": "search",
+    "Mail": "Mail",
+    "Direccion": "addres",
+    "Localidad":"Location"
 }
